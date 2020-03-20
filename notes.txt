@@ -1,0 +1,4 @@
+This folder is for keeping some html files copy-pasted from free code camp tutorials.
+Going to try to use the git workflow we learned earlier this year with every session, so that we don't forget and have to re-learn it repeatedly!
+
+Maybe later: try to get the html files readable on the actual internet, using the odin project thing pre-fab rails app we learned earlier?
